@@ -27,7 +27,7 @@ Here are some of my recent projects:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/abdelrahmanaboelazm)
+- [LinkedIn]([www.linkedin.com/in/abdelrahmanaboelazm](https://www.linkedin.com/in/abdelrahman-ibrahim-%F0%9F%87%B5%F0%9F%87%B8-787712217/))
 
 
 ## Languages
