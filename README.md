@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a keen intere
 - **Tools:** Jupyter Notebook, Git
 - **Platforms:** VScode, Google Colab
 
+## Courses
+Here are some of the courses I have taken:
+
+
 ## Projects
 
 Here are some of my recent projects:
