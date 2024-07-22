@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a keen intere
 ## Skills
 
 - **Languages:** Python, SQL
-- **Frameworks:** PyTorch, scikit-learn, Hugging Face
+- **Frameworks:** PyTorch, scikit-learn, Hugging Face Transformers
 - **Tools:** Jupyter Notebook, Git
 - **Platforms:** VScode, Google Colab
 
