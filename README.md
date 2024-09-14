@@ -27,15 +27,22 @@
 
 ---
 
-## 📊 GitHub Stats:
-![Abdelrahman Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanHesham&show_icons=true&theme=radical)
+## Courses
+Here are some of the courses I have taken:
 
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanHesham&theme=onedark)
-
-### 🧑‍💻 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanHesham&layout=compact&theme=radical)
+[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)  --  [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanHesham)
+## Projects
+
+Here are some of my recent projects:
+
+1. **USA RealEstate Prediction**  --  [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
+
+ • Engineered a robust predictive analysis model using machine learning algorithms in Python that forecasted real estate 
+trends with 98% accuracy.
+
+---
+
+
