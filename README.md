@@ -21,6 +21,7 @@ I'm a passionate Data Scientist with a keen interest in Machine Learning and Nat
 
 ## Courses
 Here are some of the courses I have taken:
+
 [Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)
 
 ## Projects
