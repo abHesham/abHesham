@@ -21,15 +21,13 @@ I'm a passionate Data Scientist with a keen interest in Machine Learning and Nat
 ## Courses
 Here are some of the courses I have taken:
 
-[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/) -- [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
+[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)  --  [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
 
 ## Projects
 
 Here are some of my recent projects:
 
-1. **USA RealEstate Prediction**
-   
- [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
+1. **USA RealEstate Prediction**  --  [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
 
  • Engineered a robust predictive analysis model using machine learning algorithms in Python that forecasted real estate 
 trends with 98% accuracy.
