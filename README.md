@@ -1,43 +1,41 @@
-# Hi there, I'm Abdelrahman Hesham 👋
+# Welcome to Abdelrahman Hesham's Profile! 👋
 
+👨‍💻 A Machine Learning enthusiast, learning Deep Learning and NLP  
+🎓 Bachelor's degree in Information Technology  
+📜 Certified in Python, SQL  
+🔧 Proficient in Python, SQL, PyTorch, scikit-learn, Keras  
+🚀 Currently learning Transformers and working on AI-powered apps  
+💬 Ask me about NLP, Deep Learning, and AI
 
-I'm a passionate Data Scientist with a keen interest in Machine Learning and Natural Language Processing (NLP). Here you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
+---
 
-## About Me
+## 📫 Contact Me:
 
-- 🔭 I’m currently working on an AI-powered HR Candidate Matching app
-- 🌱 I’m currently learning Deep Learning and NLP
-- 👯 I’m looking to collaborate on projects involving ML and NLP
-- 🤔 I’m looking for help with learning NLP and LLMs
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdelrahmanHesham)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
 
+---
 
-## Skills
+## ⚙️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-- **Languages:** Python, SQL
-- **Frameworks:** PyTorch, scikit-learn, Tensorflow, Keras
-- **Tools:** Jupyter Notebook, Git
-- **Platforms:** VScode, Google Colab, Cursor
+---
 
-## Courses
-Here are some of the courses I have taken:
+## 📊 GitHub Stats:
+![Abdelrahman Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanHesham&show_icons=true&theme=radical)
 
-[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)  --  [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanHesham&theme=onedark)
 
-## Projects
+### 🧑‍💻 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanHesham&layout=compact&theme=radical)
 
-Here are some of my recent projects:
+---
 
-1. **USA RealEstate Prediction**  --  [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
-
- • Engineered a robust predictive analysis model using machine learning algorithms in Python that forecasted real estate 
-trends with 98% accuracy.
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-ibrahim-%F0%9F%87%B5%F0%9F%87%B8-787712217/)
-
-
-## Languages
-
-- Arabic
-- English
+![Profile Views](https://komarev.com/ghpvc/?username=AbdelrahmanHesham)
