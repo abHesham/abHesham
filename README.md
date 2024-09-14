@@ -1,7 +1,7 @@
 # Hi there, I'm Abdelrahman Hesham 👋
 
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with a keen interest in Machine Learning and Natural Language Processing (NLP). Here you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
+I'm a passionate Data Scientist with a keen interest in Machine Learning and Natural Language Processing (NLP). Here you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
 
 ## About Me
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate Data Scientist with a keen intere
 ## Skills
 
 - **Languages:** Python, SQL
-- **Frameworks:** PyTorch, scikit-learn, Hugging Face Transformers
+- **Frameworks:** PyTorch, scikit-learn, Keras
 - **Tools:** Jupyter Notebook, Git
 - **Platforms:** VScode, Google Colab
 
