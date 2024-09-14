@@ -27,15 +27,14 @@
 
 ---
 
-## ![image](https://github.com/user-attachments/assets/b607ce17-2c51-452c-ac2e-e1906b016712)
- Courses:
+## 🎓 Courses:
 Here are some of the courses I have taken:
 
 [Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)  --  [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
 
 ---
 
-## Projects:
+## 🚀 Projects:
 
 Here are some of my recent projects:
 
