@@ -1,19 +1,19 @@
-# Welcome to Abdelrahman Hesham's Profile! 👋
+# Hi there, I'm Abdelrahman Hesham 👋
 
 👨‍💻 A Machine Learning enthusiast, learning Deep Learning and NLP  
 🎓 Bachelor's degree in Information Technology  
 📜 Certified in Python, SQL  
 🔧 Proficient in Python, SQL, PyTorch, scikit-learn, Keras  
-🚀 Currently learning Transformers and working on AI-powered apps  
-💬 Ask me about NLP, Deep Learning, and AI
+
+
 
 ---
 
 ## 📫 Contact Me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/abdelrahmanaboelazm/)) 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbdelrahmanHesham)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)]([https://twitter.com/your-twitter](https://x.com/existingpal))
 
 ---
 
