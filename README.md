@@ -9,15 +9,14 @@ I'm a passionate Data Scientist with a keen interest in Machine Learning and Nat
 - 🌱 I’m currently learning Deep Learning and NLP
 - 👯 I’m looking to collaborate on projects involving ML and NLP
 - 🤔 I’m looking for help with learning NLP and LLMs
-- 💬 Ask me about Data Science, Machine Learning, and NLP
 
 
 ## Skills
 
 - **Languages:** Python, SQL
-- **Frameworks:** PyTorch, scikit-learn, Keras
+- **Frameworks:** PyTorch, scikit-learn, Tensorflow, Keras
 - **Tools:** Jupyter Notebook, Git
-- **Platforms:** VScode, Google Colab
+- **Platforms:** VScode, Google Colab, Cursor
 
 ## Courses
 Here are some of the courses I have taken:
