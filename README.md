@@ -21,7 +21,7 @@ I'm a passionate Data Scientist with a keen interest in Machine Learning and Nat
 ## Courses
 Here are some of the courses I have taken:
 
-[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)
+[Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/) -- [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
 
 ## Projects
 
