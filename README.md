@@ -27,7 +27,11 @@ Here are some of the courses I have taken:
 
 Here are some of my recent projects:
 
-1. **AI-powered HR Candidate Matching App** - Developing an AI system to efficiently pick the top 5 most suitable candidates for a role 
+1. **USA RealEstate Prediction** 
+ [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
+
+ • Engineered a robust predictive analysis model using machine learning algorithms in Python that forecasted real estate 
+trends with 98% accuracy.
 
 ## Connect with Me
 
