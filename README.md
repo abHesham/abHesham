@@ -1,8 +1,11 @@
 # Hi there, I'm Abdelrahman Hesham 👋
 
 👨‍💻 A Data Analyst enthusiast 
+
 🎓 Bachelor's degree in Computer Science 
+
 📜 Certified in Python, SQL  
+
 🔧 Proficient in Python, SQL, scikit-learn 
 
 
