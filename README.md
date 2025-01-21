@@ -1,9 +1,9 @@
 # Hi there, I'm Abdelrahman Hesham 👋
 
-👨‍💻 A Machine Learning enthusiast, learning Deep Learning and NLP  
-🎓 Bachelor's degree in Information Technology  
+👨‍💻 A Data Analyst enthusiast 
+🎓 Bachelor's degree in Computer Science 
 📜 Certified in Python, SQL  
-🔧 Proficient in Python, SQL, PyTorch, scikit-learn, Keras  
+🔧 Proficient in Python, SQL, scikit-learn 
 
 
 
