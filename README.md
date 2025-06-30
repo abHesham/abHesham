@@ -6,7 +6,7 @@
 
 📜 Certified in Python, SQL  
 
-🔧 Proficient in Python, SQL, scikit-learn 
+🔧 Proficient in Python, SQL,Excel, PowerBI, scikit-learn
 
 
 
