@@ -41,6 +41,7 @@
 Here are some of the courses I have taken:
 
 [Certified Data Scientist Professional](https://www.epsiloneg.com/course/cdsp/)  --  [View Credential](https://epsilonaii.org/wp-content/uploads/2023/12/101027-23-EG-Abdelrahman-Hesham-Attia-Ibrahim.pdf)
+
 [Fullstack Engineer Developer Path](https://scrimba.com/fullstack-path-c0fullstack)  --  In Progress 
 
 ---
@@ -49,6 +50,7 @@ Here are some of the courses I have taken:
 
 Here are some of my recent projects:
 [HomeTown Homepage](deluxe-monstera-ef5775.netlify.app)
+
 [Business Card](business-card-personall.netlify.app)
 
 
