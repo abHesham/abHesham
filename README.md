@@ -8,7 +8,7 @@
 
 🔧 Proficient in Python, SQL, HTML, CSS
 
-<img width="18" height="20" alt="image" src="https://github.com/user-attachments/assets/a6000b59-8da0-4eeb-a60b-61621ab781db" /> NodeJS, ExpressJS, NextJS -- learning in Progress
+<img width="18" height="20" alt="image" src="https://github.com/user-attachments/assets/a6000b59-8da0-4eeb-a60b-61621ab781db" /> REACT, NodeJS, ExpressJS, NextJS -- learning in Progress
 
 
 
