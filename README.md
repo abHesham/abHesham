@@ -1,12 +1,14 @@
 # Hi there, I'm Abdelrahman Hesham 👋
 
-👨‍💻 A Data Analyst, Data Engineer enthusiast 
+👨‍💻 A Fullstack enthusiast 
 
 🎓 Bachelor's degree in Computer Science 
 
 📜 Certified in Python, SQL  
 
-🔧 Proficient in Python, SQL, Excel, PowerBI
+🔧 Proficient in Python, SQL, HTML, CSS
+
+
 
 
 
@@ -24,8 +26,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=plastic)
 
 
 ---
@@ -40,12 +41,7 @@ Here are some of the courses I have taken:
 ## 🚀 Projects:
 
 Here are some of my recent projects:
-
-1. **USA RealEstate Prediction**  --  [Streamlit Link](https://usarealestate-ktny4aginhcewkafptfzzw.streamlit.app/)
-
- • Engineered a robust predictive analysis model using machine learning algorithms in Python that forecasted real estate 
-trends with 98% accuracy.
-
----
+[HomeTown Homepage](deluxe-monstera-ef5775.netlify.app)
+[Business Card](business-card-personall.netlify.app)
 
 
