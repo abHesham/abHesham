@@ -8,7 +8,7 @@
 
 🔧 Proficient in Python, SQL, HTML, CSS
 
-<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a6000b59-8da0-4eeb-a60b-61621ab781db" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a6000b59-8da0-4eeb-a60b-61621ab781db" />
 
 
 
