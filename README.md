@@ -50,7 +50,16 @@ Here are some of the courses I have taken:
 
 Here are some of my recent projects:
 
+🌍 Hometown Homepage
+
+A simple one-page website showcasing my hometown with images and structured content.
+
 [HomeTown Homepage](deluxe-monstera-ef5775.netlify.app)
+
+
+💼 Business Card Website
+
+A clean personal business card webpage built with HTML & CSS.
 
 [Business Card](business-card-personall.netlify.app)
 
