@@ -49,6 +49,7 @@ Here are some of the courses I have taken:
 ## 🚀 Projects:
 
 Here are some of my recent projects:
+
 [HomeTown Homepage](deluxe-monstera-ef5775.netlify.app)
 
 [Business Card](business-card-personall.netlify.app)
