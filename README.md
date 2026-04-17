@@ -7,6 +7,7 @@
 📜 Certified in Python, SQL  
 
 🔧 Proficient in Python, SQL, HTML, CSS
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eec36689-77ba-4f2c-a43e-afacfa16f2e6" />
 
 
 
